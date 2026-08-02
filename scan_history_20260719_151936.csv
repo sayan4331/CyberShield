@@ -1,0 +1,62 @@
+id,scan_type,label,score,subject,created_at
+61,file,Clean,0,scan_history_20260719_145242.csv,2026-07-19T15:19:24.651263
+60,url,Likely Safe,0,www.w3resource.com,2026-07-19T15:18:57.025820
+59,url,Medium Risk,45,127.0.0.1,2026-07-19T15:18:33.125809
+58,url,Low Risk,15,www.google.com,2026-07-19T15:18:16.681937
+57,url,Low Risk,15,www.google.com,2026-07-19T15:18:16.483378
+56,url,Low Risk,15,www.google.com,2026-07-19T15:18:16.296973
+55,url,Low Risk,15,www.google.com,2026-07-19T15:18:16.113232
+54,url,Low Risk,15,www.google.com,2026-07-19T15:18:15.891904
+53,url,Low Risk,15,www.google.com,2026-07-19T15:18:15.280710
+52,url,Low Risk,15,www.google.com,2026-07-19T15:18:14.062808
+51,url,Low Risk,15,www.mygov.com,2026-07-19T15:18:03.337528
+50,url,Low Risk,15,www.mygov.com,2026-07-19T15:18:02.186944
+49,url,Low Risk,15,www.mygov.in,2026-07-19T15:17:54.922330
+48,url,Low Risk,15,www.mygov.wb.in,2026-07-19T15:17:47.810109
+47,url,Low Risk,15,www.mygov.wb.in,2026-07-19T15:17:47.260849
+46,url,Low Risk,15,www.mygov.wb.in,2026-07-19T15:17:46.262749
+45,url,Low Risk,15,www.cricinfo.com,2026-07-19T15:17:27.490038
+44,url,Likely Safe,0,www.makautexam.net,2026-07-19T15:16:58.649024
+43,file,Clean,0,Client.txt,2026-07-19T15:16:52.644646
+42,password,Strong,75,,2026-07-19T15:16:43.414427
+41,password,Very Strong,90,,2026-07-19T15:16:28.469484
+40,password,Strong,87,,2026-07-19T15:16:27.955481
+39,password,Strong,72,,2026-07-19T15:16:26.756703
+38,password,Strong,75,,2026-07-19T15:16:23.921422
+37,password,Very Strong,90,,2026-07-19T15:16:22.542728
+36,password,Strong,75,,2026-07-19T15:16:20.645899
+35,password,Very Strong,90,,2026-07-19T15:16:19.580328
+34,password,Very Strong,90,,2026-07-19T15:16:17.313771
+33,password,Very Strong,90,,2026-07-19T15:16:14.858566
+32,password,Strong,75,,2026-07-19T15:16:00.843508
+31,file,Clean,0,SVNIT_Internship_Program_-_Offer_Letter.pdf,2026-07-19T14:55:49.489186
+30,file,Clean,0,images.png,2026-07-19T14:55:21.160438
+29,password,Strong,75,,2026-07-19T14:54:11.413761
+28,password,Very Strong,90,,2026-07-19T14:54:06.967986
+27,password,Strong,75,,2026-07-19T14:53:58.633011
+26,url,Likely Safe,0,www.makautexam.net,2026-07-19T14:52:06.241060
+25,password,Strong,78,,2026-07-19T14:50:58.643239
+24,password,Fair,65,,2026-07-19T14:50:54.865718
+23,password,Weak,40,,2026-07-19T14:50:52.198617
+22,password,Very Weak,25,,2026-07-19T14:50:51.397578
+21,password,Very Weak,22,,2026-07-19T14:50:50.716631
+20,password,Weak,48,,2026-07-19T14:50:47.711521
+19,password,Weak,48,,2026-07-19T14:50:44.658629
+18,password,Weak,48,,2026-07-19T14:50:42.461841
+17,password,Weak,45,,2026-07-19T14:50:40.673636
+16,password,Weak,40,,2026-07-19T14:50:38.446919
+15,url,Likely Safe,0,web.whatsapp.com,2026-07-19T05:40:01.858499
+14,url,Low Risk,15,www.google.com,2026-07-19T05:39:39.565153
+13,url,Low Risk,15,www.google.com,2026-07-19T05:39:38.629402
+12,url,Low Risk,15,www.google.com,2026-07-19T05:39:36.929560
+11,url,Low Risk,15,huhwgash.com,2026-07-19T05:39:15.149725
+10,url,Low Risk,15,huhwgash.com,2026-07-19T05:39:13.819834
+9,url,Low Risk,15,boundhub.com,2026-07-19T05:38:58.388013
+8,url,Low Risk,15,boundhub.com,2026-07-19T05:38:55.075868
+7,url,Low Risk,15,pornzog.com,2026-07-19T05:38:40.197772
+6,file,Clean,0,25300123078_Image_rep.pdf,2026-07-19T05:38:18.806830
+5,password,Fair,58,,2026-07-19T05:37:47.351767
+4,password,Fair,58,,2026-07-19T05:37:46.208636
+3,password,Fair,58,,2026-07-19T05:37:44.974392
+2,password,Weak,40,,2026-07-19T05:37:43.486086
+1,password,Very Weak,25,,2026-07-19T05:37:41.710709
